@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_Bot')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', '')
+API_ID = int(environ.get('API_ID', '24351291'))
+API_HASH = environ.get('API_HASH', 'ed3c922b4dc9f20b55911903f3fb61f3')
+BOT_TOKEN = environ.get('BOT_TOKEN', '6775835567:AAEv-KGoRVb3h7CsaDaZRFBQKlCCxrfjEto')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -42,7 +42,7 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Np:Np@cluster0.5cbizur.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "vjbotsaban")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'vjbots')
 
@@ -57,7 +57,7 @@ PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/XBOTSUPPORTS')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/botuptest')
 MSG_ALRT = environ.get('MSG_ALRT', 'NARUTO UZUMAKI')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001814139622'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'XBOTSUPPORTS)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
