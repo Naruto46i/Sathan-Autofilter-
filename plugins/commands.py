@@ -57,7 +57,7 @@ async def start(client, message):
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
             InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗',
-                                 url=f'https://youtube.com/@Tech_VJ')
+                                 url=f'https://t.me/XBOTSUPPORTS')
         ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
