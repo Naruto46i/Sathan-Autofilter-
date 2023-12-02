@@ -17,7 +17,7 @@ If You Want To Create This Type Of Bot Contact Us
     MYRANGE_TXT = """<b>NOTE:
     IAM WORLD FAST BOT MY SERVER ALSO IAM
     ORU KILLADI ANN YANA UNDAKINATH @HORRIDduo
-    evan ann
+    evan ann</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
