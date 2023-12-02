@@ -113,7 +113,10 @@ Nᴀᴍᴇ - {}"""
 
     OLD_ALRT_TXT = """🔆 Hey {}, ❗Link Expired, Please Request Again ♻"""
 
-    CUDNT_FND = """<b><i>⚠ No Results, Please Follow Request Tips!</i></b> \n <b><i>♀ Request Tips › [Click Here](https://te.legra.ph/Neha-01-21-2)</i></b>"""
+    CUDNT_FND = """<b><i>Sᴘᴇʟʟɪɴɢ Mɪꜱᴛᴀᴋᴇ Bʀᴏ ‼️
+Dᴏɴ'ᴛ Wᴏʀʀʏ 😊 Cʜᴏᴏꜱᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟᴏᴡ 👇🏼 അക്ഷരത്തെറ്റ് ബ്രോ ‼️
+
+വിഷമിക്കേണ്ട 😊 താഴെയുള്ളത് ശരിയായത് തിരഞ്ഞെടുക്കുക 👇 </i></b>"""
 
     I_CUDNT = """<b><i>⚠ No Results, Please Follow Request Tips !</i></b> \n <b><i>♀ Request Tips › [Click Here](https://te.legra.ph/Neha-01-21-2)</i></b>"""
 
