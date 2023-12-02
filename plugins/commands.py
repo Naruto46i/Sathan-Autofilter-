@@ -56,8 +56,8 @@ async def start(client, message):
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗', callback_data='myrange')
-                                 
+            InlineKeyboardButton('JOIN YOU',
+                                 url=f'https://t.me/MALLU_MOVIES_PROK')
         ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -108,8 +108,8 @@ async def start(client, message):
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗', callback_data='myrange')
-                                 
+            InlineKeyboardButton('JOIN YOU',
+                                 url=f'https://t.me/MALLU_MOVIES_PROK')
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
