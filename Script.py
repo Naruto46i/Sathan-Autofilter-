@@ -14,6 +14,11 @@ If You Want To Create This Type Of Bot Contact Us
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
 
+    MYRANGE_TXT = """<b>NOTE:
+    IAM WORLD FAST BOT MY SERVER ALSO IAM
+    ORU KILLADI ANN YANA UNDAKINATH @HORRIDduo
+    evan ann
+
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
 ✅ - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/HORRIDduo">⚡ ʜᴇʀᴇ ⚡</a>
