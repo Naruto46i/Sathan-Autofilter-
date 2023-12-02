@@ -6,7 +6,7 @@ If You Want To Create This Type Of Bot Contact Us
 
 🔗 For More Information Contact @HORRIDduo</b>"""
 
-    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Narutov88_bot><b>me</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : {}
 👑 Oᴡɴᴇʀ : <a href=https://t.me/HORRIDduo><b>HORRID</b></a>\n
 📢 SUPPORT : <a href=https://t.me/XBOTSUPPORTS><b>⚡ my SUPPORT  ⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
