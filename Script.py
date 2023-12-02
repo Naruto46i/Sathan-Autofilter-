@@ -1,10 +1,10 @@
 class script(object):
-    START_TXT = "<b>🧤 Hello {}, I'm <a href=https://telegram.me/{}>{}</a> I Can Provide You Any Movies And Series</b> 😇. \n⚡ You Can Also Use Your Shortner And Bot Will Provide Your Links In Your Group⚡"
+    START_TXT = "<b>🧤 Hello {}, I'm <a href=https://telegram.me/{}>{}</a> I Can Provide You Any Movies And Series</b> 😇. \n⚡ And Bot Will Provide Your Links In Your Group⚡"
 
     HELP_TXT = """<b>Hᴇʏ {}
 If You Want To Create This Type Of Bot Contact Us
 
-🔗 For More Information Contact @VJbots_bot 🔗</b>"""
+🔗 For More Information Contact @HORRIDduo</b>"""
 
     ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/Narutov88_bot><b>me</b></a>\n
 👑 Oᴡɴᴇʀ : <a href=https://t.me/HORRIDduo><b>HORRID</b></a>\n
@@ -13,11 +13,6 @@ If You Want To Create This Type Of Bot Contact Us
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
-
-    MYRANGE_TXT = """<b>NOTE:
-    IAM WORLD FAST BOT MY SERVER ALSO IAM
-    ORU KILLADI ANN YANA UNDAKINATH @HORRIDduo
-    evan ann</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
@@ -43,7 +38,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/anjel_neha)</code>
+<code>[Button Text](buttonurl:https://t.me/HORRIDduo)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
