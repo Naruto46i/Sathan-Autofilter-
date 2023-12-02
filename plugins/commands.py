@@ -56,8 +56,8 @@ async def start(client, message):
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗',
-                                 url=f'https://t.me/XBOTSUPPORTS')
+            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗', callback_data=myrange')
+                                 
         ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -108,9 +108,8 @@ async def start(client, message):
             InlineKeyboardButton('📚 Hᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('Aʙᴏᴜᴛ 🌐', callback_data='about')
         ], [
-            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗',
-                                 url=f'https://youtube.com/@Tech_VJ')
-        ]]
+            InlineKeyboardButton('🔗 Subscribe YouTube Channel 🔗', callback_data='myrange')
+                                 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
