@@ -49,7 +49,7 @@ Read [this](https://telegram.dog/VJ_Bots) before you start messing up with your 
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/VJBots/Advance-Auto-Filter/blob/main/info.py) for more
+* Check [info.py]([[https://github.com/VJBots/Advance-Auto-Filter/blob/main/info.py](https://t.me/HORRIDduo)](https://t.me/HORRIDduo)) for more
 ## EXTRA FEATURES
 * `URL_SHORTENR_WEBSITE`: URL Shortener Website Link ( Without https://)
 * `URL_SHORTNER_WEBSITE_API`: URL Shortener Website API key
@@ -62,7 +62,7 @@ Read [this](https://telegram.dog/VJ_Bots) before you start messing up with your 
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtube.com/@Tech_VJ)**</i>
+<i>**[OWNER ...](https://t.me/HORRIDduo)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -123,7 +123,7 @@ link - to create link for one post
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To [VJ](https://github.com/VJBotz) for Original EvaMaria.
+ - Thanks To [VJ]([https://github.com/VJBotz](https://t.me/HORRIDduo)) for Original EvaMaria.
  - Thanks To [VJ](https://github.com/VJBotz) for Search in PM feature.
  - Thanks To All Everyone In This Journey
 
