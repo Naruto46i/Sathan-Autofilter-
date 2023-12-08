@@ -25,6 +25,10 @@ PICS = (environ.get('PICS', 'https://telegra.ph/file/4db066e57574696d7e9d9.jpg')
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/46443096bc6895c74a716.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a1b9.jpg")
+OPENAI_API = environ.get('OPENAI_API', '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') #add here openai api
+SUPPORT_GROUP = environ.get('SUPPORT_GROUP', '-1002029882658')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/XBOTSUPPORTS')
+
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
